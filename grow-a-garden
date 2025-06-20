@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nefarious22222/pet_hop/refs/heads/main/pet_hoppers"))()
+loadstring(game:HttpGet("https://scriptguardian.onrender.com/scriptguardian/files/scripts/loaders/pet-hatcher"))()
 local player = game:GetService("Players").LocalPlayer
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
